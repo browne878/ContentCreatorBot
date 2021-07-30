@@ -1,0 +1,184 @@
+{
+  "DiscordOptions": {
+    "Token": "NzA1NDM5NzI4ODk5NzE5MjI5.Xqrt8Q.SMQq0bB9qZjJA9nu9-dheMTC39A",
+    "Prefix": "/"
+  },
+  "MySql": {
+    "MySqlHost": "85.190.148.82",
+    "MySqlUser": "browne",
+    "MySqlPass": "pjasdh(730)",
+    "MySqlDB": "arkdbpve",
+    "MySqlPort": 3306
+  },
+  "Servers": [
+    {
+      "ClusterName": "PVE",
+      "ServerName": "ragnarokpve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 33340,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVE",
+      "ServerName": "extinctionpve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 33350,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVE",
+      "ServerName": "crystalpve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 33355,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVE",
+      "ServerName": "aberrationpve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 33345,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVE",
+      "ServerName": "genesispve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 33335,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVE",
+      "ServerName": "islandpve",
+      "RconIP": "85.190.148.82",
+      "RconPort": 43335,
+      "RconPass": "lagertha42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "ragnarokpvpve",
+      "RconIP": "85.190.148.83",
+      "RconPort": 33335,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "crystalpvpve",
+      "RconIP": "85.190.148.83",
+      "RconPort": 33360,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "aberrationpvpve",
+      "RconIP": "85.190.148.83",
+      "RconPort": 33350,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "scorchedpvpve",
+      "RconIP": "85.190.148.83",
+      "RconPort": 33340,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "valgueropvpve",
+      "RconIP": "85.190.148.83",
+      "RconPort": 33345,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "extinctionpvpve",
+      "RconIP": "85.190.148.84",
+      "RconPort": 33370,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "genesispvpve",
+      "RconIP": "85.190.148.84",
+      "RconPort": 33340,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "centerpvpve",
+      "RconIP": "85.190.148.84",
+      "RconPort": 35335,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVPVE",
+      "ServerName": "islandpvpve",
+      "RconIP": "85.190.148.84",
+      "RconPort": 32335,
+      "RconPass": "papaltandan42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "ragnarokpvp",
+      "RconIP": "85.190.148.85",
+      "RconPort": 33340,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "scorchedpvp",
+      "RconIP": "85.190.150.115",
+      "RconPort": 33335,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "genesispvp",
+      "RconIP": "85.190.150.115",
+      "RconPort": 33350,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "crystalpvp",
+      "RconIP": "85.190.148.85",
+      "RconPort": 33390,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "aberrationpvp",
+      "RconIP": "85.190.148.85",
+      "RconPort": 33345,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "extinctionpvp",
+      "RconIP": "85.190.148.86",
+      "RconPort": 33350,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "islandpvp",
+      "RconIP": "85.190.148.86",
+      "RconPort": 33340,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "centerpvp",
+      "RconIP": "85.190.148.86",
+      "RconPort": 33345,
+      "RconPass": "kamikaze42"
+    },
+    {
+      "ClusterName": "PVP",
+      "ServerName": "valgueropvp",
+      "RconIP": "85.190.150.115",
+      "RconPort": 33370,
+      "RconPass": "kamikaze42"
+    }
+  ]
+
+}
